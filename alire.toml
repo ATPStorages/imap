@@ -1,0 +1,10 @@
+name = "imap"
+description = "Internet Message Access Protocol (IMAP) version 4rev2 implementation"
+version = "0.1.0-dev"
+
+authors = ["Miko Elbrecht"]
+maintainers = ["Miko Elbrecht <pmt.mailservice@gmail.com>"]
+maintainers-logins = ["meownium"]
+licenses = "Apache-2.0 WITH LLVM-exception"
+website = "https://github.com/ATPStorages/imap.git"
+tags = ["imap", "message", "protocol", "email", "mail", "smtp", "pop3"]
